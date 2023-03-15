@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(201, 209, 201);
+}
+code{background: rgb(201, 209, 201);
+    color: #fff;
+    display: block;
+    padding: 24px 15px;
+}
+
+
+dd{
+    margin-left: 40px;
+}
+ul{
+list-style: circle;
+padding-left: 40px;
+}
+ol{
+    list-style-type: square;
+    padding-left: 40px;
+}
+
+
+footer{
+    margin-bottom: 0;
+    clear: both;
+    
+}
